@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fresherwelcome/static/css/main.abd64e84.css",
+    "main.js": "/fresherwelcome/static/js/main.6410b792.js",
+    "static/media/love-1.png": "/fresherwelcome/static/media/love-1.633da03870d9769b21df.png",
+    "static/media/RubikGemstones-Regular.ttf": "/fresherwelcome/static/media/RubikGemstones-Regular.2d68e250828973f224f5.ttf",
+    "index.html": "/fresherwelcome/index.html",
+    "main.abd64e84.css.map": "/fresherwelcome/static/css/main.abd64e84.css.map",
+    "main.6410b792.js.map": "/fresherwelcome/static/js/main.6410b792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.6410b792.js"
+  ]
+}
