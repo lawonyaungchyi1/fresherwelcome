@@ -56,6 +56,28 @@ const MessageBox = () => {
           Selectionထဲပါ၀င်သွားတဲ့သူငယ်ချင်းတွေကိုတူတူအားပေးလိုက်ကြရအောင်။
         </Typography>
       </Box>
+      <Box
+        sx={{
+          border: "3px solid #db5461",
+          background: "#fafafa",
+          padding: "10px",
+          borderRadius: "20px",
+          margin: "20% 0",
+        }}
+      >
+        <Typography
+          sx={{
+            fontWeight: "bold",
+            color: "#db5461",
+            textAlign: "center",
+            wordWrap: "break-word",
+          }}
+        >
+          {" "}
+          ညီလေးတို့ညီမလေးတို့
+          ခုမဲပေးတဲ့စနစ်ကကိုယ်ကြိုက်တဲ့သူတွေကိုအကုန်ပါစေချင်တယ်ဆိုရင်လည်းအကုန်လုံးနှိပ်ပြီးမဲပေးလို့ရပါတယ်။
+        </Typography>
+      </Box>
       <Button />
     </ThemeProvider>
   );
