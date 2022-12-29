@@ -2,6 +2,7 @@ import { Box, createTheme, ThemeProvider, Typography } from "@mui/material";
 
 import RubikGemstones from "../../photos//RubikGemstones-Regular.ttf";
 import Button from "../Button/Button";
+import Qr from "../../photos/qr.png";
 
 const theme = createTheme({
   typography: {
@@ -81,6 +82,9 @@ const MessageBox = () => {
           --ခုမဲပေးတဲ့စနစ်ကKing 3
           ယောက်ပေးချင်တယ်ဆိုရင်လည်းသုံးယောက်လုံးကိုနှိပ်ပီးပေးလို့ရပါတယ်။
         </Typography>
+      </Box>
+      <Box>
+        <img src={Qr} alt="Qrcode" style={{ width: "100%" }} />
       </Box>
       <Button />
     </ThemeProvider>
