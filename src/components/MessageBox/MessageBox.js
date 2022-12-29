@@ -57,6 +57,9 @@ const MessageBox = () => {
           Selectionထဲပါ၀င်သွားတဲ့သူငယ်ချင်းတွေကိုတူတူအားပေးလိုက်ကြရအောင်။
         </Typography>
       </Box>
+      <Box>
+        <img src={Qr} alt="Qrcode" style={{ width: "100%" }} />
+      </Box>
       <Box
         sx={{
           border: "3px solid #db5461",
@@ -82,9 +85,6 @@ const MessageBox = () => {
           --ခုမဲပေးတဲ့စနစ်ကKing 3
           ယောက်ပေးချင်တယ်ဆိုရင်လည်းသုံးယောက်လုံးကိုနှိပ်ပီးပေးလို့ရပါတယ်။
         </Typography>
-      </Box>
-      <Box>
-        <img src={Qr} alt="Qrcode" style={{ width: "100%" }} />
       </Box>
       <Button />
     </ThemeProvider>
