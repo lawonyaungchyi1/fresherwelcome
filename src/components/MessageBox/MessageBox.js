@@ -41,7 +41,7 @@ const MessageBox = () => {
           fontWeight="bolder"
           sx={{ fontFamily: "RubikGemstones", color: "#db5461" }}
         >
-          Fresher Welcome 12/2022
+          Fresher Welcome 11/2022
         </Typography>
 
         <Typography
@@ -75,7 +75,11 @@ const MessageBox = () => {
         >
           {" "}
           ညီလေးတို့ညီမလေးတို့
-          ခုမဲပေးတဲ့စနစ်ကကိုယ်ကြိုက်တဲ့သူတွေကိုအကုန်ပါစေချင်တယ်ဆိုရင်လည်းအကုန်လုံးနှိပ်ပြီးမဲပေးလို့ရပါတယ်။
+          <br />
+          --Joker Title နေရာမှာ (မောင်/မ .....) အတိုင်းမြန်မာလိုရေးပေးပါ။
+          <br />
+          --ခုမဲပေးတဲ့စနစ်ကKing 3
+          ယောက်ပေးချင်တယ်ဆိုရင်လည်းသုံးယောက်လုံးကိုနှိပ်ပီးပေးလို့ရပါတယ်။
         </Typography>
       </Box>
       <Button />
