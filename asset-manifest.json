@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fresherwelcome/static/css/main.abd64e84.css",
-    "main.js": "/fresherwelcome/static/js/main.29b85eef.js",
+    "main.js": "/fresherwelcome/static/js/main.d7a54118.js",
     "static/media/love-1.png": "/fresherwelcome/static/media/love-1.633da03870d9769b21df.png",
     "static/media/qr.png": "/fresherwelcome/static/media/qr.28faaa44f80382ff8780.png",
     "static/media/RubikGemstones-Regular.ttf": "/fresherwelcome/static/media/RubikGemstones-Regular.2d68e250828973f224f5.ttf",
     "index.html": "/fresherwelcome/index.html",
     "main.abd64e84.css.map": "/fresherwelcome/static/css/main.abd64e84.css.map",
-    "main.29b85eef.js.map": "/fresherwelcome/static/js/main.29b85eef.js.map"
+    "main.d7a54118.js.map": "/fresherwelcome/static/js/main.d7a54118.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.29b85eef.js"
+    "static/js/main.d7a54118.js"
   ]
 }
